@@ -1,0 +1,3978 @@
+{
+ "00862712000378": {
+  "company": "Revian, Inc.",
+  "brand": "REVIAN Headliner Universal Kit",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-04-15",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-05-03",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850523007136": {
+  "company": "Biophotas, Inc.",
+  "brand": "Celluma",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-10-19",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-07-25",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "08800022304924": {
+  "company": "WONTECH CO.,LTD",
+  "brand": "Hair Boom69, Hair Beam Air, Hair Boom, Hair Boom Air, Ulike Hair UpUp",
+  "openfda_subs": [
+   "K192425",
+   "K223862",
+   "K240064"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-11-05",
+    "subs": [
+     "K192425"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K192425"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2023-03-01",
+    "subs": [
+     "K192425"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2024-03-21",
+    "subs": [
+     "K192425",
+     "K223862",
+     "K240064"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006725": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K180885"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-10-05",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850075326006": {
+  "company": "Biophotas, Inc.",
+  "brand": "Celluma",
+  "openfda_subs": [
+   "K152280",
+   "K171323",
+   "K211038",
+   "K232977"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-08-01",
+    "subs": [
+     "K152280",
+     "K171323",
+     "K211038",
+     "K232977"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006732": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-12-22",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-08-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860011935582": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "CurrentBody Skin\u2122",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006701": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K180885"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-10-05",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00862712000316": {
+  "company": "Revian, Inc.",
+  "brand": "Revian AC Adaptor Replacement Kit",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-04-15",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-05-03",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2024-10-31",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461021": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "true",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-04-13",
+    "subs": [],
+    "exempt": [
+     "true"
+    ]
+   }
+  ]
+ },
+ "00860007783432": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-11-27",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575140": {
+  "company": "LaserCap Company",
+  "brand": "CURE LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575102": {
+  "company": "LaserCap Company",
+  "brand": "Maxim LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00862712000309": {
+  "company": "Revian, Inc.",
+  "brand": "REVIAN RED",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-04-08",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2024-03-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2024-05-03",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2025-05-08",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006572": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-05",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06977638360612": {
+  "company": "Dongguan Boyuan Intelligent Technology Co.,Ltd",
+  "brand": "Hair Growth Device",
+  "openfda_subs": [
+   "K250308"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-17",
+    "subs": [
+     "K250308"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "08800022300674": {
+  "company": "WONTECH CO.,LTD",
+  "brand": "Hair Boom",
+  "openfda_subs": [
+   "K182562"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-04-23",
+    "subs": [
+     "K182562"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K182562"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2023-03-01",
+    "subs": [
+     "K182562"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00859690003910": {
+  "company": "Remax Medi-Tech (Shenzhen) Corporation",
+  "brand": "iRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-08-09",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06975488664256": {
+  "company": "Shenzhen Breo Technology Co., Ltd.",
+  "brand": "Breo",
+  "openfda_subs": [
+   "K242620"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-01-02",
+    "subs": [
+     "K242620"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850079561014": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "CurrentBody Skin\u2122",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461564": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-09-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06971008070019": {
+  "company": "Shenzhen Slinph Technology Co., Ltd.",
+  "brand": "iHelmet",
+  "openfda_subs": [
+   "K162782"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K162782"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K162782"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006183": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [
+   "K143199"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K143199"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K143199"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045460956": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "04719892822725": {
+  "company": "Shang Far Biotechnology Co.",
+  "brand": "NEWHAIR LASER HAIR GROWTH CAP",
+  "openfda_subs": [
+   "K192627"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-12-08",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045460918": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374116": {
+  "company": "Revian, Inc.",
+  "brand": "2M USB Magnetic Cable v2 Only Replacement Kit",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-08-12",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006411": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850062024557": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "EXOCEUTICALS",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006220": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K150578"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2019-10-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00851234001031": {
+  "company": "10589578 Canada Inc.",
+  "brand": "RedRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-07-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00731093153129": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "CurrentBody Skin\u2122",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "26977638360616": {
+  "company": "Dongguan Boyuan Intelligent Technology Co.,Ltd",
+  "brand": "N/A",
+  "openfda_subs": [
+   "K250308"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-08",
+    "subs": [
+     "K250308"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783425": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-11-27",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06928798600353": {
+  "company": "Xuzhou Kernel Medical Equipment Co., Ltd.",
+  "brand": "KERNEL",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-08-03",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045460901": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06928798600339": {
+  "company": "Xuzhou Kernel Medical Equipment Co., Ltd.",
+  "brand": "Kernel",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-08-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850049532440": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "HIGHERDOSE",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-07-07",
+    "subs": [
+     "K242363"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575096": {
+  "company": "LaserCap Company",
+  "brand": "ZCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "08800022304917": {
+  "company": "WONTECH CO.,LTD",
+  "brand": "Hair Boom69, Hair Boom",
+  "openfda_subs": [
+   "K191154"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-11-05",
+    "subs": [
+     "K191154"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K191154"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2023-03-01",
+    "subs": [
+     "K191154"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006299": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [
+   "K153618"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K153618"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K153618"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461410": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-10-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06974958310457": {
+  "company": "Shenzhen Idea Light Limited",
+  "brand": "LIFEPRO FITNESS",
+  "openfda_subs": [
+   "K250467"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-27",
+    "subs": [
+     "K250467"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006718": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K180885"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-10-05",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461007": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850016973047": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K142573"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-12-22",
+    "subs": [
+     "K142573"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K142573"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2023-12-06",
+    "subs": [
+     "K142573"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006763": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-02-01",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-07-12",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2023-07-13",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006510": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K142573"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-12-22",
+    "subs": [
+     "K142573"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K142573"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00862712000392": {
+  "company": "Revian, Inc.",
+  "brand": "Revian Lyte",
+  "openfda_subs": [
+   "K242441"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-11-27",
+    "subs": [
+     "K242441"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461014": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06973416570204": {
+  "company": "Cosmo Far East Technology Limited",
+  "brand": "Diode Laser Cap",
+  "openfda_subs": [
+   "K173678"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-06-22",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006145": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2023-11-29",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 6,
+    "date": "2025-08-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006251": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-12-22",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-08-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575010": {
+  "company": "LaserCap Company",
+  "brand": "LaserCap HD",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06928798600292": {
+  "company": "Xuzhou Kernel Medical Equipment Co., Ltd.",
+  "brand": "Kernel",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-08-27",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06953808300503": {
+  "company": "Hubei YJT Intelligent Technology Group Co., Ltd.",
+  "brand": "Laser Cap",
+  "openfda_subs": [
+   "K232356"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-05-07",
+    "subs": [
+     "K232356"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "09361725025343": {
+  "company": "Light Tree Ventures Europe B.V.",
+  "brand": "BON CHARGE",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-09",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06975488665482": {
+  "company": "Shenzhen Breo Technology Co., Ltd.",
+  "brand": "Breo",
+  "openfda_subs": [
+   "K242620"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-01-22",
+    "subs": [
+     "K242620"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575126": {
+  "company": "LaserCap Company",
+  "brand": "Foundation Light Therapy Optima LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006138": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2023-11-29",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 6,
+    "date": "2025-08-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374161": {
+  "company": "Revian, Inc.",
+  "brand": "GetHairMD",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-05-15",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06973416570105": {
+  "company": "Cosmo Far East Technology Limited",
+  "brand": "Diode Laser Cap",
+  "openfda_subs": [
+   "K173678"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-06-22",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "B399EVO0400": {
+  "company": "Theradome, Inc.",
+  "brand": "EVO LH40",
+  "openfda_subs": [
+   "K161046"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-12-10",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-03-06",
+    "subs": [
+     "K161046"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006619": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K180885"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-10-05",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374130": {
+  "company": "Revian, Inc.",
+  "brand": "Revian 2M USB to Magnetic Cable & Insert v2 Replacement Kit",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-04-15",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-05-03",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006008": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2023-11-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850016973078": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K180885"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-10-05",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "05061091983134": {
+  "company": "LIGHT TREE TECHNOLOGY INDIA PRIVATE LIMITED",
+  "brand": "Beauty Pie",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-01",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2026-08-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374109": {
+  "company": "Revian, Inc.",
+  "brand": "Revian 2M USB to Magnetic MicroUSB Cable Only Replacement Kit",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-04-15",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-05-03",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2024-11-06",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00861134000102": {
+  "company": "APIRA SCIENCE, INC.",
+  "brand": "iGrow Hair Growth System",
+  "openfda_subs": [
+   "K122248",
+   "K140931",
+   "K141567"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-11-30",
+    "subs": [
+     "K122248",
+     "K140931",
+     "K141567"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "07640260120297": {
+  "company": "Foreo AB",
+  "brand": "FAQ 302",
+  "openfda_subs": [
+   "K242747"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-12-27",
+    "subs": [
+     "K242747"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06953808300527": {
+  "company": "Hubei YJT Intelligent Technology Group Co., Ltd.",
+  "brand": "Laser Therapy Hair Growth Comb",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-05-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00840223305991": {
+  "company": "Xtrallux, LLC",
+  "brand": "HAIRCLUB RX\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-07",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2026-09-10",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00858830007191": {
+  "company": "PULSADERM LLC",
+  "brand": "Hair Laser Helmet",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2018-11-05",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374017": {
+  "company": "Revian, Inc.",
+  "brand": "Revian Inc. Replacement Kit, 120V AC-5V DC, 2A Wall, Type A Plug",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-11-27",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "09361725024414": {
+  "company": "LIGHT TREE TECHNOLOGY INDIA PRIVATE LIMITED",
+  "brand": "Bon Charge",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-12-08",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2026-06-01",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2026-06-02",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2026-06-26",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2026-08-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006534": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-12-22",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-08-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006558": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575119": {
+  "company": "LaserCap Company",
+  "brand": "Foundation Light Therapy LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00851234001024": {
+  "company": "10589578 Canada Inc.",
+  "brand": "RedRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-07-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461533": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-09-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006046": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [
+   "K180885"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-05-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-28",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2023-11-29",
+    "subs": [
+     "K180885"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374093": {
+  "company": "Revian, Inc.",
+  "brand": "Revian Magnetic Micro-USB Connector Only Replacement Kit",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-04-15",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-05-03",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2024-11-06",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00840223306004": {
+  "company": "Xtrallux, LLC",
+  "brand": "HAIRCLUB RX\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-07",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2026-09-10",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06953808300510": {
+  "company": "Hubei YJT Intelligent Technology Group Co., Ltd.",
+  "brand": "Laser Therapy Hair Growth Comb",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-05-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575072": {
+  "company": "LaserCap Company",
+  "brand": "Medi Tresse LaserCap HD",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006305": {
+  "company": "Lexington International, LLC",
+  "brand": "Actonis,Hairmax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-12-13",
+    "subs": [
+     "K103368",
+     "K110233",
+     "K112524"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-08-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783487": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-10",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "G680TW147": {
+  "company": "BLISSCO MEDICAL DEVICE LIMITED",
+  "brand": "Laser Hair Growth Cap",
+  "openfda_subs": [
+   "K192627"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-12-24",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2026-05-14",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06928798600346": {
+  "company": "Xuzhou Kernel Medical Equipment Co., Ltd.",
+  "brand": "Kernel",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-08-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00859690003675": {
+  "company": "FREEDOM LASER THERAPY, INC.",
+  "brand": "iRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-07-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850523007730": {
+  "company": "Biophotas, Inc.",
+  "brand": "Celluma",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-12-30",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-07-25",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783494": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-10",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06970006970918": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "NOOANCE",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850523007761": {
+  "company": "Biophotas, Inc.",
+  "brand": "Celluma",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-12-31",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-07-25",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850016973481": {
+  "company": "Lexington International, LLC",
+  "brand": "Hairmax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-04-08",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2023-11-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783470": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-10",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006190": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [
+   "K143199"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K143199"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K143199"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374147": {
+  "company": "Revian, Inc.",
+  "brand": "Revian Inc. Replacement Kit USB-C Power Cable",
+  "openfda_subs": [
+   "K173729"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-11-27",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-02-17",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-02-24",
+    "subs": [
+     "K173729"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461458": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-12-27",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-09-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860011935599": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "CurrentBody Skin\u2122",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00731093153136": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "CurrentBody Skin\u2122",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-02-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-10-21",
+    "subs": [
+     "K230336"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575089": {
+  "company": "LaserCap Company",
+  "brand": "V8 LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045460963": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850001456708": {
+  "company": "Omm Imports Inc.",
+  "brand": "Revv",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-09-05",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575003": {
+  "company": "LaserCap Company",
+  "brand": "LaserCap HD+",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "04719892822800": {
+  "company": "Shang Far Biotechnology Co.",
+  "brand": "NEWHAIR LASER HAIR GROWTH CAP",
+  "openfda_subs": [
+   "K192627"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-12-08",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045460970": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00851234001017": {
+  "company": "10589578 Canada Inc.",
+  "brand": "RedRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-07-04",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00851234001048": {
+  "company": "10589578 Canada Inc.",
+  "brand": "RedRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2021-06-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461571": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-03-09",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "26977638360487": {
+  "company": "Dongguan Boyuan Intelligent Technology Co.,Ltd",
+  "brand": "N/A",
+  "openfda_subs": [
+   "K250308"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-08",
+    "subs": [
+     "K250308"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06970006970925": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "NOOANCE",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00810045461526": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-08-27",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575041": {
+  "company": "LaserCap Company",
+  "brand": "LaserCap MC2",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "B399PRO0800": {
+  "company": "Theradome, Inc.",
+  "brand": "PRO LH80",
+  "openfda_subs": [
+   "K122950"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-12-10",
+    "subs": [
+     "K122950"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006213": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [
+   "K153618"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K153618"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K153618"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783401": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-11-27",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "04719892821476": {
+  "company": "Shang Far Biotechnology Co.",
+  "brand": "NEWHAIR LASER HAIR GROWTH CAP",
+  "openfda_subs": [
+   "K192627"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-12-08",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06973416570303": {
+  "company": "Cosmo Far East Technology Limited",
+  "brand": "Diode Laser Cap",
+  "openfda_subs": [
+   "K173678"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-06-22",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783456": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K230134"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-07-09",
+    "subs": [
+     "K230134"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575027": {
+  "company": "LaserCap Company",
+  "brand": "LaserCap SD",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06978743639853": {
+  "company": "Cosmo Far East Technology Limited",
+  "brand": "Diode Laser Cap",
+  "openfda_subs": [
+   "K173678"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2025-07-04",
+    "subs": [
+     "K173678"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575034": {
+  "company": "LaserCap Company",
+  "brand": "LaserCap HD XL",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00840223305984": {
+  "company": "Xtrallux, LLC",
+  "brand": "HAIRCLUB RX\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-07",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2026-09-10",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006541": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "04719892820806": {
+  "company": "Shang Far Biotechnology Co.",
+  "brand": "NEWHAIR LASER HAIR GROWTH CAP",
+  "openfda_subs": [
+   "K192627"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-12-09",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06977638360483": {
+  "company": "Dongguan Boyuan Intelligent Technology Co.,Ltd",
+  "brand": "Hair Growth Device",
+  "openfda_subs": [
+   "K250308"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-17",
+    "subs": [
+     "K250308"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00859690003897": {
+  "company": "Remax Medi-Tech (Shenzhen) Corporation",
+  "brand": "iRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2022-12-12",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575133": {
+  "company": "LaserCap Company",
+  "brand": "Get Hair MD LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "G680D549215": {
+  "company": "BLISSCO MEDICAL DEVICE LIMITED",
+  "brand": "GWODE Laser Hair Growth Cap",
+  "openfda_subs": [
+   "K192627"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2024-11-25",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2024-11-29",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2026-05-14",
+    "subs": [
+     "K192627"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06971777450029": {
+  "company": "Chongqing Peninsula Medical Technology Co., Ltd.",
+  "brand": "Irradiation Aesthetic Device",
+  "openfda_subs": [
+   "K171835"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2019-01-18",
+    "subs": [
+     "K171835"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [
+     "K171835"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575157": {
+  "company": "LaserCap Company",
+  "brand": "HairStem LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-05-11",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575065": {
+  "company": "LaserCap Company",
+  "brand": "Medi Tresse LaserCap HD+",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783418": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-11-27",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00864918000343": {
+  "company": "PULSADERM LLC",
+  "brand": "NutraStim Hair Laser Comb",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2018-11-05",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00859690003361": {
+  "company": "Remax Medi-Tech (Shenzhen) Corporation",
+  "brand": "iRestore",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K151662"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2018-09-12",
+    "subs": [
+     "K151662"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2020-07-07",
+    "subs": [
+     "K151662"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 6,
+    "date": "2022-03-17",
+    "subs": [
+     "K151662"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 7,
+    "date": "2022-12-12",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06974958310587": {
+  "company": "Shenzhen Idea Light Limited",
+  "brand": "ideatherapy",
+  "openfda_subs": [
+   "K250467"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-17",
+    "subs": [
+     "K250467"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006206": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [
+   "K151516"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2018-07-06",
+    "subs": [
+     "K151516"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-07-07",
+    "subs": [
+     "K151516"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006671": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006565": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06970006973285": {
+  "company": "Shenzhen Kaiyan Medical Equipment Co,. Ltd",
+  "brand": "CurrentBody Skin\u2122",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-07-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00860007783449": {
+  "company": "Xtrallux, LLC",
+  "brand": "Xtrallux\u2122",
+  "openfda_subs": [
+   "K222364"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-11-27",
+    "subs": [
+     "K222364"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "06928798600360": {
+  "company": "Xuzhou Kernel Medical Equipment Co., Ltd.",
+  "brand": "Kernel",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2020-08-03",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006527": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850056575058": {
+  "company": "LaserCap Company",
+  "brand": "Turbo LaserCap",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-09-18",
+    "subs": [
+     "K203826"
+    ],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 2,
+    "date": "2025-11-24",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00856823006152": {
+  "company": "Lexington International, LLC",
+  "brand": "HairMax",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 2,
+    "date": "2018-03-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 3,
+    "date": "2020-07-07",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 4,
+    "date": "2020-09-28",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   },
+   {
+    "v": 5,
+    "date": "2023-11-29",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850003374178": {
+  "company": "Revian, Inc.",
+  "brand": "LOCKrx Red Light Cap",
+  "openfda_subs": [
+   "K242441"
+  ],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-05-26",
+    "subs": [
+     "K242441"
+    ],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850523007365": {
+  "company": "Biophotas, Inc.",
+  "brand": "Celluma",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2026-04-14",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00853327006534": {
+  "company": "CAPILLUS, LLC",
+  "brand": "Capillus",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2023-01-06",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ },
+ "00850001456067": {
+  "company": "Omm Imports Inc.",
+  "brand": "Recreo",
+  "openfda_subs": [],
+  "openfda_exempt": "false",
+  "versions": [
+   {
+    "v": 1,
+    "date": "2022-07-08",
+    "subs": [],
+    "exempt": [
+     "false"
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,13 @@
+510(k): 111 clearances, 58 applicants, 2007-01-18 to 2026-07-17
+GUDID: 151 records, 28 labelers, 70 brand names
+with number 65, exempt 1, neither 85
+openFDA vs AccessGUDID latest version: 0 mismatches of 151
+multi-version 80; submission field changed 43; lost and still missing 26; lost then regained 8; first version lacked, now present 8
+  loss published 2019-10-07: 1 records, 1 labeler(s)
+  loss published 2022-12-12: 1 records, 1 labeler(s)
+  loss published 2024-03-11: 1 records, 1 labeler(s)
+  loss published 2025-08-11: 6 records, 1 labeler(s)
+  loss published 2025-11-24: 17 records, 2 labeler(s)
+distinct submissions cited 32; OAP 29; other codes 3; OAP clearances cited by no GUDID record 82
+distinct labeler-clearance pairs 33
+  different firm 3 pairs / 12 records; variant 4; same firm 26

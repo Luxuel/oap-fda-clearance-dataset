@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this package, please cite it as below."
+title: "Product code OAP device records: frozen openFDA 510(k), openFDA UDI and AccessGUDID history extracts with reproducible figures"
+authors:
+  - family-names: Onwuamaegbu
+    given-names: Dominic
+version: "1.0"
+date-released: 2026-10-02
+license: MIT
+keywords:
+  - GUDID
+  - UDI
+  - 510(k)
+  - medical device regulation
+  - openFDA

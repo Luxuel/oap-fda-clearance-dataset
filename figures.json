@@ -1,0 +1,50 @@
+{
+  "clearances": 111,
+  "applicants": 58,
+  "decision_date_first": "2007-01-18",
+  "decision_date_last": "2026-07-17",
+  "gudid_records": 151,
+  "labelers": 28,
+  "brand_names": 70,
+  "with_submission_number": 65,
+  "premarket_exempt": 1,
+  "neither_number_nor_exemption": 85,
+  "latest_version_mismatches": 0,
+  "latest_version_records_compared": 151,
+  "multi_version_records": 80,
+  "submission_field_changed": 43,
+  "lost_and_still_missing": 26,
+  "lost_then_regained": 8,
+  "first_version_lacked_now_present": 8,
+  "loss_published": {
+    "2019-10-07": {
+      "records": 1,
+      "labelers": 1
+    },
+    "2022-12-12": {
+      "records": 1,
+      "labelers": 1
+    },
+    "2024-03-11": {
+      "records": 1,
+      "labelers": 1
+    },
+    "2025-08-11": {
+      "records": 6,
+      "labelers": 1
+    },
+    "2025-11-24": {
+      "records": 17,
+      "labelers": 2
+    }
+  },
+  "distinct_submissions_cited": 32,
+  "oap_submissions_cited": 29,
+  "other_code_submissions_cited": 3,
+  "oap_clearances_not_cited": 82,
+  "labeler_clearance_pairs": 33,
+  "different_firm_pairs": 3,
+  "different_firm_records": 12,
+  "variant_pairs": 4,
+  "same_firm_pairs": 26
+}
